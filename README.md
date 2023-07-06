@@ -1,5 +1,5 @@
 # threads-wrapper
-[![NPM page][npm-src]][npm-href]  
+[![NPM page][npm-src]][npm-href] [![Git license][git-src]][git-href]  
 API wrapper that allows developers to pull data from the new Threads social media platform.
 # Installation
 You can use NPM to install this package in your project. Use the following command to install the package!
@@ -43,5 +43,8 @@ const getUserThreads = async (username) => {
 getUserThreads("Gisgar3");
 ```
 
-[npm-src]: https://badgen.net/npm/v/threads-wrapper?color=purple
+[npm-src]: https://img.shields.io/npm/v/threads-wrapper?style=for-the-badge&logo=npm&labelColor=black&color=purple
 [npm-href]: https://www.npmjs.org/package/threads-wrapper
+
+[git-src]: https://img.shields.io/github/license/Gisgar3/threads-wrapper?style=for-the-badge&logo=GitHub&labelColor=black&color=blue
+[git-href]: https://github.com/Gisgar3/threads-wrapper/blob/main/LICENSE
