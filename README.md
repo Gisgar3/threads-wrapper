@@ -1,6 +1,6 @@
 # threads-wrapper
-API wrapper that allows developers to pull data from the new Threads social media platform.  
-![NPM badge](https://badgen.net/npm/v/threads-wrapper?color=purple)
+[![NPM page][npm-src]][npm-href]  
+API wrapper that allows developers to pull data from the new Threads social media platform.
 # Installation
 You can use NPM to install this package in your project. Use the following command to install the package!
 ```npm
@@ -42,3 +42,6 @@ const getUserThreads = async (username) => {
 }
 getUserThreads("Gisgar3");
 ```
+
+[npm-src]: https://badgen.net/npm/v/threads-wrapper?color=purple
+[npm-href]: https://www.npmjs.org/package/threads-wrapper
