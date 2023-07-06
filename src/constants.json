@@ -1,0 +1,6 @@
+{
+    "urls": {
+        "graphql_api": "https://www.threads.net/api/graphql",
+        "ajax_url": "https://www.threads.net/ajax/bulk-route-definitions"
+    }
+}

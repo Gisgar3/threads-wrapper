@@ -1,0 +1,12 @@
+{
+  "name": "threads-wrapper",
+  "version": "0.0.6",
+  "description": "API wrapper for the Threads social media platform",
+  "main": "./src/threads-api-wrapper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gavin R. Isgar",
+  "license": "MIT",
+  "keywords": ["threads", "wrapper", "api", "meta"]
+}
