@@ -43,6 +43,13 @@ const getUserThreads = async (username) => {
 getUserThreads("Gisgar3");
 ```
 
+# Current list of functions
+`retrieveUserId(username: String)`: Used to retrieve a user's Threads ID by username. Primarily used in other internal functions.
+
+`getUserData(username: String)`: Get a user's profile data by username. **Returns JSON**  
+
+`getUserThreads(username: String)`: Get all threads from a user by username. **Returns JSON**
+
 [npm-src]: https://img.shields.io/npm/v/threads-wrapper?style=for-the-badge&logo=npm&labelColor=black&color=purple
 [npm-href]: https://www.npmjs.org/package/threads-wrapper
 
