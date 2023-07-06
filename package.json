@@ -1,6 +1,6 @@
 {
   "name": "threads-wrapper",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "API wrapper for the Threads social media platform",
   "main": "./src/threads-api-wrapper.js",
   "scripts": {
